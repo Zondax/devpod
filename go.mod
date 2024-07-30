@@ -10,7 +10,7 @@ require (
 	github.com/compose-spec/compose-go v1.20.2
 	github.com/creack/pty v1.1.21
 	github.com/docker/cli v25.0.0+incompatible
-	github.com/docker/docker v25.0.5+incompatible
+	github.com/docker/docker v26.1.4+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/evanphx/json-patch v5.8.1+incompatible
 	github.com/ghodss/yaml v1.0.0
@@ -101,6 +101,7 @@ require (
 	github.com/loft-sh/jspolicy v0.2.2 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
+	github.com/moby/docker-image-spec v1.3.1 // indirect
 	github.com/moby/spdystream v0.2.0 // indirect
 	github.com/moby/term v0.5.0 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
