@@ -10,7 +10,7 @@ require (
 	github.com/compose-spec/compose-go v1.20.2
 	github.com/creack/pty v1.1.21
 	github.com/docker/cli v25.0.0+incompatible
-	github.com/docker/docker v25.0.5+incompatible
+	github.com/docker/docker v25.0.6+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/evanphx/json-patch v5.8.1+incompatible
 	github.com/ghodss/yaml v1.0.0
